@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Youcef Elkhalil
 
-<!--
-**rabahyoucef/rabahyoucef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst in training / junior**, passionate about transforming data into actionable insights.  
+I enjoy exploring datasets, building predictive models, and creating dashboards to **solve real-world problems**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I Can Do
+- **Data Analysis:** Cleaning, EDA, feature engineering  
+- **Python & SQL:** Pandas, NumPy, Seaborn, Plotly, MySQL  
+- **Machine Learning:** Classification, Random Forest, Logistic Regression  
+- **Visualization & Dashboards:** Interactive dashboards, reports for business decisions  
+- **Problem Solving:** Turning complex data into clear, actionable insights  
+
+---
+
+## 🤝 Collaboration Interests
+I am open to collaborate with:
+- Data Scientists and Analysts on business or research projects  
+- Companies looking to improve customer insights or predictive analytics  
+- Teams building dashboards, reporting, or data-driven solutions  
+
+---
+
+## 🌍 Languages
+- French – Professional  
+ 
+- English – Professional 
+
+---
+
+## 📫 Contact
+- Email: rvbahyoucef@gmail.com  
+
+---
+
+⭐ **I am looking for opportunities to contribute to data-driven projects, learn from experienced teams, and create impact with analytics.**
