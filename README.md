@@ -1,20 +1,21 @@
-# 👋 Hi, I'm Youcef Elkhalil
+# 👋 Hi, I'm Rabah Youcef Mohamed Elkhalil – Data Scientist Junior
 
-I am a **Data Analyst in training / junior**, passionate about transforming data into actionable insights.  
-I enjoy exploring datasets, building predictive models, and creating dashboards to **solve real-world problems**.  
-
+I hold a State Engineering degree in Meteorology, a highly analytical and data-driven field, where I developed strong skills in data analysis, statistical modeling, and numerical forecasting. My scientific background allows me to transform large and complex datasets into actionable insights for informed decision-making..
 ---
 
 ## 🎯 What I Can Do
-- **Data Analysis:** Cleaning, EDA, feature engineering  
+
+- **Data Analysis:** Data cleaning, exploratory data analysis (EDA), and feature engineering  
 - **Python & SQL:** Pandas, NumPy, Seaborn, Plotly, MySQL  
 - **Machine Learning:** Classification, Random Forest, Logistic Regression  
-- **Visualization & Dashboards:** Interactive dashboards, reports for business decisions  
-- **Problem Solving:** Turning complex data into clear, actionable insights  
+- **Visualization & Dashboards:** Interactive dashboards and business-oriented reports  
+- **Problem Solving:** Transforming complex datasets into actionable business insights  
+  
 
 ---
 
 ## 🤝 Collaboration Interests
+
 I am open to collaborate with:
 - Data Scientists and Analysts on business or research projects  
 - Companies looking to improve customer insights or predictive analytics  
@@ -34,4 +35,3 @@ I am open to collaborate with:
 
 ---
 
-⭐ **I am looking for opportunities to contribute to data-driven projects, learn from experienced teams, and create impact with analytics.**
